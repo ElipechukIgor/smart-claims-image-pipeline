@@ -313,7 +313,7 @@ GitHub:
 https://github.com/ElipechukIgor
 
 LinkedIn:
-(Add your LinkedIn URL)
+www.linkedin.com/in/igorelipechuk
 
 ---
 
