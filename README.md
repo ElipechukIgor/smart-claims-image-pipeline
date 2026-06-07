@@ -10,6 +10,12 @@ End-to-end Lakehouse pipeline for insurance claim image processing using AWS S3,
 
 ---
 
+# Architecture
+
+![Workflow](docs/workflow.png)
+
+---
+
 # Project Overview
 
 This project simulates a real-world insurance claims processing pipeline.
