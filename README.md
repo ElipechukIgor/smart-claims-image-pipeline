@@ -26,14 +26,6 @@ The solution demonstrates modern Data Engineering and Data + AI practices common
 
 ---
 
-# Architecture
-
-## End-to-End Workflow
-
-![Workflow](docs/workflow.png)
-
----
-
 ## Bronze Layer - Auto Loader Stream
 
 Automatic image ingestion from Amazon S3 using Databricks Auto Loader.
